@@ -1,0 +1,8 @@
+This is some sample text only, for indication purpose. to check if the text has been read fine from a txt file. The concept example is read stream.aaaaaaaaaaaaa
+bbbbbbbbbbbbb
+cccccccccccccccccc
+d
+eeeeeeeeeeeeeee
+ffffffffff
+gggggggggg
+hhhhhhh
